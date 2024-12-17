@@ -1,6 +1,0 @@
-x1,y1,x2,y2,confidence,class_id,threshold,image_path,caption
-874.8982,406.8684,1079.281,495.60886,0.8110862,2.0,20,cg.png,a close up of a car parked on a street near orange cones
-557.26996,435.33264,843.6739,560.23096,0.7899854,2.0,20,cg.png,a close up of a person standing next to a car on a road
-705.5213,357.6623,774.6509,410.8464,0.77371466,2.0,20,cg.png,a close up of a car parked in a parking lot
-1.2875375,468.54156,429.02612,632.6669,0.6344504,7.0,20,cg.png,there is a white van that is driving down the street
-2.0718606,471.25815,428.64874,632.26166,0.45703328,2.0,20,cg.png,there is a white van driving down the road with a traffic cone
